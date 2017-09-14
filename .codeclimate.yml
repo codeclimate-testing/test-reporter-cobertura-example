@@ -5,6 +5,8 @@ engines:
   pmd:
     enabled: true
     channel: beta
+    config:
+      file: invalid.xml
 ratings:
   paths: []
 exclude_paths: []
