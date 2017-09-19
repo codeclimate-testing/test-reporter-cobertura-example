@@ -3,6 +3,8 @@ engines:
   checkstyle:
     enabled: true
     channel: beta
+    config:
+      file: checkstyle.xml
 ratings:
   paths: []
 exclude_paths: []
