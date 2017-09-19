@@ -1,10 +1,7 @@
 ---
 engines:
-  fixme:
-    enabled: true
   pmd:
     enabled: true
-    channel: beta
     config:
       file: rules.xml
 ratings:
