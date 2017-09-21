@@ -2,8 +2,8 @@
 engines:
   pmd:
     enabled: true
-    config:
-      file: rules.xml
+  checkstyle:
+    enabled: true
 ratings:
   paths: []
 exclude_paths: []
