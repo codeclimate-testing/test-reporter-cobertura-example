@@ -1,0 +1,9 @@
+---
+engines:
+  pmd:
+    enabled: true
+    config:
+      file: rules.xml
+ratings:
+  paths: []
+exclude_paths: []
