@@ -1,0 +1,12 @@
+---
+engines:
+  checkstyle:
+    enabled: true
+  fixme:
+    enabled: true
+  pmd:
+    enabled: true
+ratings:
+  paths:
+  - "**.java"
+exclude_paths: []
