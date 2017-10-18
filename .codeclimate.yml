@@ -15,6 +15,7 @@ ratings:
   paths:
     - "**.java"
 exclude_paths:
+  - "**Template**"
   - "**.js"
   - "**.jsx"
   - "**.rb"
